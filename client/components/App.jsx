@@ -5,7 +5,7 @@ import Words from '../containers/Words'
 
 function App (props) {
   return (
-    <div className='app-container'>
+    <div className='app-container'> 
       <Words />
       <AddWord />
     </div>
