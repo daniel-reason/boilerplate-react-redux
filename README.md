@@ -4,13 +4,12 @@
 
 To use:
 
-* Fork this repo
+* Copy this repo
 * Rename your repo according to the app you're building
-
-```sh
-git clone https://github.com/[your-org]/[your-app].git
-cd [your-app] && npm install
-```
+    └─ mv boilerplate-react-redux [new project name]
+    └─ git remote set-url origin https://github.com/daniel-reason/PROJECT-NAME
+* npm
+* npm run build
 
 To start the express server, run `npm start`, and go to [http://localhost:3000](http://localhost:3000).
 
